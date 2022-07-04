@@ -1,0 +1,25 @@
+class a:
+    def__init__(self):
+        print("Hi A constructor:");
+
+    def abc(self):
+        print("a class abc method");
+
+class b:
+    def__init__(self):
+        print("Hi B constructor:");
+
+    def xyz(self):
+        print("y class xyz method");
+
+
+
+class c:
+    def__init__(self):
+        print("Hi c constructor:");
+
+    def atoz(self):
+        print("z class atoz method");
+
+    
+    
